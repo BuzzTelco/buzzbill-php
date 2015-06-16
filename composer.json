@@ -1,0 +1,20 @@
+{
+  "name":           "buzzbill/php-client",
+  "description":    "Buzz Billing PHP API Client",
+  "homepage":       "https://buzzbilling.com.au",
+  "license":        "Commercial",
+  "authors":        [
+                        {
+                          "name":     "Jeremy Chequer",
+                          "email":    "Jeremy.Chequer@BuzzTelco.com.au",
+                          "homepage": "https://buzztelco.com.au",
+                          "role":     "Developer"
+                        }
+                    ],
+
+  "require":        {
+                        "php":        ">=5.3.0",
+                        "ext-curl":   "*"
+                    }
+
+}
